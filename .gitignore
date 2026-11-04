@@ -1,0 +1,7 @@
+build/
+out/
+*.class
+historial_asientos.tsv
+GUIA_VIDEO.md
+docs/GUIA_VIDEO.pdf
+docs/guia_video.html
